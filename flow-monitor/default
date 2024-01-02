@@ -1,0 +1,22 @@
+Flow 1 (7.0.0.2:49153 -> 1.0.0.2:5000) proto TCP
+  Tx Packets: 200292
+  Tx Bytes:   301527807
+  TxOffered:  20.101854 Mbps
+  Rx Bytes:   301488695
+  Throughput: 20.099246 Mbps
+  Mean delay:  26.325629 ms
+  Mean jitter:  1.006412 ms
+  Rx Packets: 200266
+Flow 2 (1.0.0.2:5000 -> 7.0.0.2:49153) proto TCP
+  Tx Packets: 103472
+  Tx Bytes:   5416888
+  TxOffered:  0.361126 Mbps
+  Rx Bytes:   5416680
+  Throughput: 0.361112 Mbps
+  Mean delay:  7.307596 ms
+  Mean jitter:  0.165401 ms
+  Rx Packets: 103468
+
+
+  Mean flow throughput: 10.230179
+  Mean flow delay: 16.816613
